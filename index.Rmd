@@ -6,6 +6,6 @@ documentclass: book
 classoption: openany
 ---
 
-# h1
-## h2
-### h3
+# Preface {-}
+
+This book offers a pedagogical structure for teaching creative research practices for a 200 level course.
