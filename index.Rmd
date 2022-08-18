@@ -5,6 +5,9 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
+bibliography: ["./bib/book.bib""]
+biblio-style: "apalike"
+link-citations: true
 ---
 
 # Preface {-}
