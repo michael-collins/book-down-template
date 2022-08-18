@@ -1,11 +1,11 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Creative Research"
+author: "Michael Collins"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
 ---
 
-# Create your open textbook
-
-Hello!
+# h1
+## h2
+### h3
