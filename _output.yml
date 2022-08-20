@@ -2,7 +2,7 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">Creative Research</a></li>
+        <li><a href="./">Boo kDown Title</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     download: ["pdf", "epub", "word"]
