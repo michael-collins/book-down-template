@@ -1,5 +1,5 @@
 ---
-title: "Creative Research"
+title: "Book Down"
 author: "Michael Collins"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -12,4 +12,4 @@ link-citations: true
 
 # Preface {-}
 
-This book offers a pedagogical structure for teaching creative research practices for a 200 level course.
+Book Down auto publish template.
