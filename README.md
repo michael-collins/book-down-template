@@ -1,3 +1,3 @@
-[![renderbook](https://github.com/michael-collins/minibookdown/actions/workflows/main.yml/badge.svg)](https://github.com/michael-collins/minibookdown/actions/workflows/main.yml)
+[![renderbook](https://github.com/michael-collins/book-down-template/actions/workflows/main.yml/badge.svg)](https://github.com/michael-collins/book-down-template/actions/workflows/main.yml)
 # Book-down Template
 
